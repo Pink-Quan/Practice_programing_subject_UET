@@ -1,0 +1,5 @@
+Ten: Anh MSV: 19020001 Diem: 7.5 
+Ten: Ba MSV: 19020002 Diem: 9.0 
+Ten: Cuong MSV: 19020003 Diem: 10 
+Ten: Dung MSV: 19020004 Diem: 9.5 
+Ten: Long MSV: 19020005 Diem: 8.0 
