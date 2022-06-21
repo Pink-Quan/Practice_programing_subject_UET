@@ -64,7 +64,6 @@ void Effect1()
     delay(300);
     onClick = false;
   }
-  delay(500);
   for (int i = 0; i < 9; i++)
   {
     digitalWrite(i, 1);
@@ -100,7 +99,6 @@ void Effect2()
     delay(300);
     onClick = false;
   }
-  delay(500);
   for (int i = 0; i < 9; i++)
   {
     if (i > 0)
