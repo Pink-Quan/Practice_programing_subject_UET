@@ -10,7 +10,8 @@ int status=1;
 void loop() {
   if(digitalRead(1))
   {
-    digitalWrite(0,status*(-1));
-    delay(200);
+    status*=-1;
+    digitalWrite(0,status);
+    delay(400);
   }
 }
