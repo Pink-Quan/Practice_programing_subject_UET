@@ -8,7 +8,7 @@ void setup() {
 int status=1;
 
 void loop() {
-  if(digitalRead(9))
+  if(digitalRead(1))
   {
     digitalWrite(0,status*(-1));
     delay(200);
